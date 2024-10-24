@@ -1,11 +1,11 @@
 {
     "name": "BreakNothing",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "title": "Break Nothing",
     "author": "Noskcaj19",
     "contact": "",
     "homepage": "",
-    "factorio_version": "1.1",
+    "factorio_version": "2.0",
     "dependencies": ["base"],
     "description": "Placed entities can't be mined"
 }
